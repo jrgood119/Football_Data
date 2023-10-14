@@ -1,0 +1,87 @@
+DB Browser for SQLite SQL database creation
+
+
+CREATE TABLE "Bio" (
+	"Player_ID"	TEXT NOT NULL UNIQUE,
+	"Last"	TEXT,
+	"First"	TEXT,
+	"Suffix"	TEXT,
+	"Draft_Year"	INTEGER,
+	"Draft_Round"	INTEGER,
+	"Draft_Pick"	INTEGER,
+	"College"	TEXT,
+	"Conference"	INTEGER,
+	"Is_D1"	INTEGER,
+	"Birthday"	TEXT,
+	"Age_At_Draft"	INTEGER,
+	PRIMARY KEY("Player_ID")
+);
+
+
+CREATE TABLE "Player_Profile" (
+	"Player_ID"	TEXT NOT NULL,
+	"Last"	TEXT,
+	"First"	TEXT,
+	"Suffix"	TEXT,
+	"Raw_Height"	TEXT,
+	"Height(In)"	INTEGER,
+	"Weight(lbs)"	INTEGER,
+	"BMI"	INTEGER,
+	"Arm_Length(In)"	INTEGER,
+	"40_Time"	INTEGER,
+	"Speed_Score"	INTEGER,
+	"Burst_Score"	INTEGER,
+	"Agility_Score"	INTEGER,
+	"Catch_Radius"	INTEGER,
+	"College_Dominator"	INTEGER,
+	"College_Target_Share"	INTEGER,
+	"Breakout_Age"	INTEGER,
+	"Weight_Adjusted_Speed_Score"	INTEGER,
+	"Height_Adjusted_Speed_Score"	INTEGER,
+	"Vertical(In)"	INTEGER,
+	"Bench"	INTEGER,
+	"Broad_Jump(In)"	INTEGER,
+	"3_Cone"	INTEGER,
+	"Shuttle"	INTEGER,
+	FOREIGN KEY("Player_ID") REFERENCES "Bio"("Player_ID")
+);
+
+
+CREATE TABLE "Metrics" (
+	"Player_ID"	TEXT NOT NULL,
+	"Last"	TEXT,
+	"First"	TEXT,
+	"Suffix"	TEXT,
+	"NFL.com"	INTEGER,
+	"RAS"	INTEGER,
+	"RAS(All_Time)"	INTEGER,
+	"PFF"	INTEGER,
+	FOREIGN KEY("Player_ID") REFERENCES "Bio"("Player_ID")
+);
+
+CREATE TABLE "WR_Finishes" (
+	"Player_ID"	TEXT NOT NULL,
+	"Draft_Year"	INTEGER,
+	"Last"	TEXT,
+	"First"	TEXT,
+	"Suffix"	TEXT,
+	"PPR_Best"	INTEGER,
+	"Standard_Best"	INTEGER,
+	"NCFF_Best"	INTEGER,
+	"Y1_PPR"	INTEGER,
+	"Y1_Standard"	INTEGER,
+	"Y1_NCFF"	INTEGER,
+	"Y2_PPR"	INTEGER,
+	"Y2_Standard"	INTEGER,
+	"Y2_NCFF"	INTEGER,
+	"Y3_PPR"	INTEGER,
+	"Y3_Standard"	INTEGER,
+	"Y3_NCFF"	INTEGER,
+	"Y4_PPR"	INTEGER,
+	"Y4_Standard"	INTEGER,
+	"Y4_NCFF"	INTEGER,
+	"Y5_PPR"	INTEGER,
+	"Y5_Standard"	INTEGER,
+	"Y5_NCFF"	INTEGER,
+	FOREIGN KEY("Player_ID") REFERENCES "Bio"("Player_ID")
+);
