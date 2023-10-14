@@ -1,5 +1,10 @@
 DB Browser for SQLite SQL database creation
 
+Primary key is Player_ID, all tables currently use Player_ID as a foreign key
+
+Player_ID is user created and is first four letters of first name, 
+last four letters of last name, and last two numbers of draft year
+
 
 CREATE TABLE "Bio" (
 	"Player_ID"	TEXT NOT NULL UNIQUE,
