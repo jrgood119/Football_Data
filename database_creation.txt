@@ -63,30 +63,3 @@ CREATE TABLE "Metrics" (
 	"PFF"	INTEGER,
 	FOREIGN KEY("Player_ID") REFERENCES "Bio"("Player_ID")
 );
-
-CREATE TABLE "WR_Finishes" (
-	"Player_ID"	TEXT NOT NULL,
-	"Draft_Year"	INTEGER,
-	"Last"	TEXT,
-	"First"	TEXT,
-	"Suffix"	TEXT,
-	"PPR_Best"	INTEGER,
-	"Standard_Best"	INTEGER,
-	"NCFF_Best"	INTEGER,
-	"Y1_PPR"	INTEGER,
-	"Y1_Standard"	INTEGER,
-	"Y1_NCFF"	INTEGER,
-	"Y2_PPR"	INTEGER,
-	"Y2_Standard"	INTEGER,
-	"Y2_NCFF"	INTEGER,
-	"Y3_PPR"	INTEGER,
-	"Y3_Standard"	INTEGER,
-	"Y3_NCFF"	INTEGER,
-	"Y4_PPR"	INTEGER,
-	"Y4_Standard"	INTEGER,
-	"Y4_NCFF"	INTEGER,
-	"Y5_PPR"	INTEGER,
-	"Y5_Standard"	INTEGER,
-	"Y5_NCFF"	INTEGER,
-	FOREIGN KEY("Player_ID") REFERENCES "Bio"("Player_ID")
-);

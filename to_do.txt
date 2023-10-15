@@ -1,0 +1,25 @@
+Place to keep everything to be done, notes, and ideas
+
+To Do:
+Create database
+	- Done 14 Oct 23
+
+Create repo
+	- Done 14 Oct 23
+	
+Upload current CSV's to db
+	- Bio is uploaded
+		- 14 Oct 23
+	- Uploaded Metrics and saved CSV
+		- 15 Oct 23
+
+Finish birthdays/draft age
+
+Add any missing players from Bio
+
+Ideas:
+Tableau for player comparison 
+
+Notes:
+For RAS, any 0's (in RAS database, but no combine) or N/A's (not in RAS database) 
+are now NULL to avoid calculation misrepresentation 
