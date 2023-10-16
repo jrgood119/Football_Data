@@ -12,10 +12,23 @@ Upload current CSV's to db
 		- 14 Oct 23
 	- Uploaded Metrics and saved CSV
 		- 15 Oct 23
+	- Uploaded Player_Profile and saved CSV
+		- 16 Oct 23
+
+Add data sources
 
 Finish birthdays/draft age
 
-Add any missing players from Bio
+Add data for vertical, bench, broad jump, 3 cone, and shuttle
+
+Add any missing players from Bio from 2014-2022
+
+Add 2023 class
+
+Add 2013 class and back
+
+Add raw stats table
+
 
 Ideas:
 Tableau for player comparison 
