@@ -15,7 +15,10 @@ Upload current CSV's to db
 	- Uploaded Player_Profile and saved CSV
 		- 16 Oct 23
 
+Add Reggrson22 Joshnson22
+
 Add data sources
+	- 17 Oct
 
 Finish birthdays/draft age
 
@@ -24,6 +27,7 @@ Add data for vertical, bench, broad jump, 3 cone, and shuttle
 Add any missing players from Bio from 2014-2022
 
 Add 2023 class
+	- Rounds 1-7 added
 
 Add 2013 class and back
 

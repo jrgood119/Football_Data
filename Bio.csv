@@ -1,4 +1,4 @@
-﻿Player_ID,Last,First,Suffix,Draft_Year,Draft_Round,Draft_Pick,College,Conference,IS_D1,Birthday,Age_At_Draft
+﻿Player_ID,Last,First,Suffix,Draft_Year,DR,DP,College,Conference,ISD1,Birthday,Age At Draft
 Sammkins14,Watkins,Sammy,,2014,1,4,Clemson,ACC,Yes,14-Jun-93,20.91
 Mikevans14,Evans,Mike,,2014,1,7,Texas A&M,SEC,Yes,21-Aug-93,20.73
 Odelkham14,Beckham,Odell,Jr.,2014,1,12,LSU,SEC,Yes,5-Nov-92,21.52
@@ -17,24 +17,24 @@ Johnrown14,Brown,John,,2014,3,91,Pittsburg State,MIAA,No,3-Apr-90,24.11
 Jaleders14,Saunders,Jalen,,2014,4,104,Oklahoma,Big 12,Yes,30-Sep-92,21.62
 Brucgton14,Ellington,Bruce,,2014,4,106,South Carolina,SEC,Yes,22-Aug-91,22.73
 Shaqvans14,Evans,Shaq,,2014,4,115,UCLA,Pac-12,Yes,7-Mar-91,23.19
-Martyant14,Bryant,Martavis,,2014,4,118,Clemson,ACC,Yes,20-Dec-91,22.4
+Martyant14,Bryant,Martavis,,2014,4,118,Clemson,ACC,Yes,20-Dec-91,22.40
 Keviwood14,Norwood,Kevin,,2014,4,123,Alabama,SEC,Yes,23-Sep-89,24.64
-Ryanrant14,Grant,Ryan,,2014,5,142,Tulane,C-USA,Yes,19-Dec-90,23.4
+Ryanrant14,Grant,Ryan,,2014,5,142,Tulane,C-USA,Yes,19-Dec-90,23.40
 Devireet14,Street,Devin,,2014,5,146,Pittsburgh,ACC,Yes,30-Mar-91,23.12
 Jareeris14,Abbrederis,Jared,,2014,5,176,Wisconsin,Big Ten,Yes,17-Dec-90,23.41
 Roberron14,Herron,Robert,,2014,6,185,Wyoming,Mountain West,Yes,2-Jun-92,21.95
 TJones14,Jones,T.J.,,2014,6,189,Notre Dame,Independents,Yes,19-Jul-92,21.82
-Mattazel14,Hazel,Matt,,2014,6,190,Coastal Carolina,Big South,No,23-Jan-92,22.3
+Mattazel14,Hazel,Matt,,2014,6,190,Coastal Carolina,Big South,No,23-Jan-92,22.30
 Waltwell14,Powell,Walt,,2014,6,196,Murray State,OVC,No,23-Nov-91,22.47
 Quinunwa14,Enunwa,Quincy,,2014,6,209,Nebraska,Big Ten,Yes,31-May-92,21.95
-Michnaro14,Campanaro,Michael,,2014,7,218,Wake Forrest,ACC,Yes,25-Jan-91,23.3
+Michnaro14,Campanaro,Michael,,2014,7,218,Wake Forrest,ACC,Yes,25-Jan-91,23.30
 Jeffanis14,Janis,Jeff,,2014,7,236,Saginaw Valley State,GLIAC,No,9-Jun-91,22.93
 Jameight14,Wright,James,,2014,7,239,LSU,SEC,Yes,31-Dec-91,22.37
 Tevieese14,Reese,Tevin,,2014,7,240,Baylor,Big 12,Yes,2-Jan-91,23.36
 Jerellon14,Gallon,Jeremy,,2014,7,244,Michigan,Big Ten,Yes,9-Feb-90,24.26
 Aarourks14,Burks,Aaron,,2014,8,260,Boise State,Mountain West,Yes,,
 Albelson14,Wilson,Albert,,2014,8,260,Georgia State,Sun Belt,Yes,12-Jul-92,21.84
-Alleurns14,Hurns,Allen,,2014,8,260,Miami,ACC,Yes,12-Nov-91,22.5
+Alleurns14,Hurns,Allen,,2014,8,260,Miami,ACC,Yes,12-Nov-91,22.50
 Austklin14,Franklin,Austin,,2014,8,260,New Mexico State,Sun Belt,Yes,7-Jul-93,20.85
 Bennwler14,Fowler,Bennie,,2014,8,260,Michigan State,Big Ten,Yes,10-Jun-91,22.93
 Berneedy14,Reedy,Bernard,,2014,8,260,Toledo,MAC,Yes,31-Dec-91,22.37
@@ -53,7 +53,7 @@ Jazolds14,Reynolds,Jaz,,2014,8,260,Oklahoma,Big 12,Yes,,
 Joshwart14,Stewart,Josh,,2014,8,260,Oklahoma State,Big 12,Yes,22-Oct-92,21.56
 Kainlter14,Colter,Kain,,2014,8,260,Northwestern,Big Ten,Yes,3-Oct-90,23.61
 LDamgton14,Washington,L'Damian,,2014,8,260,Missouri,SEC,Yes,10-May-91,23.01
-Marcucas14,Lucas,Marcus,,2014,8,260,Missouri,SEC,Yes,1-Mar-92,22.2
+Marcucas14,Lucas,Marcus,,2014,8,260,Missouri,SEC,Yes,1-Mar-92,22.20
 Mikeavis14,Davis,Mike,,2014,8,260,Texas,Big 12,Yes,11-May-92,22.01
 Nathhter14,Slaughter,Nathan,,2014,8,260,West Texas State,Lone Star,No,21-Aug-92,21.73
 Rashence14,Lawrence,Rashad,,2014,8,260,Northwestern,Big Ten,Yes,10-Jun-92,21.92
@@ -72,13 +72,13 @@ Philsett15,Dorsett,Phillip,,2015,1,29,Miami,ACC,Yes,5-Jan-93,22.33
 Devimith15,Smith,Devin,,2015,2,37,Ohio State,Big Ten,Yes,3-Mar-92,23.17
 Dorikham15,Green-Beckham,Dorial,,2015,2,40,Missouri,SEC,Yes,12-Apr-93,22.06
 Devihess15,Funchess,Devin,,2015,2,41,Michigan,Big Ten,Yes,21-May-94,20.96
-Tylekett15,Lockett,Tyler,,2015,3,69,Kansas State,Big 12,Yes,28-Sep-92,22.6
+Tylekett15,Lockett,Tyler,,2015,3,69,Kansas State,Big 12,Yes,28-Sep-92,22.60
 Jaelrong15,Strong,Jaelen,,2015,3,70,Arizona State,Pac-12,Yes,25-Jan-94,21.27
 Chrinley15,Conley,Chris,,2015,3,76,Georgia,SEC,Yes,25-Oct-92,22.53
-Sammates15,Coates,Sammie,,2015,3,87,Auburn,SEC,Yes,31-Mar-93,22.1
+Sammates15,Coates,Sammie,,2015,3,87,Auburn,SEC,Yes,31-Mar-93,22.10
 Jamiwder15,Crowder,Jamison,,2015,4,105,Duke,ACC,Yes,17-Jun-93,21.88
 Justardy15,Hardy,Justin,,2015,4,107,East Carolina,American,Yes,18-Dec-91,23.38
-Vincayle15,Mayle,Vince,,2015,4,123,Washington State,Pac-12,Yes,12-Jun-91,23.9
+Vincayle15,Mayle,Vince,,2015,4,123,Washington State,Pac-12,Yes,12-Jun-91,23.90
 DeAnlter15,Smelter,DeAndre,,2015,4,132,Georgia Tech,ACC,Yes,3-Dec-91,23.42
 Rasheene15,Greene,Rashad,,2015,5,139,Florida State,ACC,Yes,23-Sep-92,22.61
 Stefiggs15,Diggs,Stefon,,2015,5,146,Maryland,Big Ten,Yes,29-Nov-93,21.43
@@ -98,131 +98,131 @@ Mariford15,Alford,Mario,,2015,7,238,West Virginia,Big 12,Yes,25-Feb-92,23.19
 Treride15,McBride,Tre,,2015,7,245,William & Mary,CAA,No,1-Dec-92,22.42
 Adamries15,Humphries,Adam,,2015,8,260,Clemson,ACC,Yes,24-Jun-93,21.86
 Andravis15,Davis,Andre,,2015,8,260,South Florida,American,Yes,,
-Antwdley15,Goodley,Antwan,,2015,8,260,Baylor,Big 12,Yes,,
+Antwdley15,Goodley,Antwan,,2015,8,260,Baylor,Big 12,Yes,6-Sep-91,23.66
 AustHill15,Hill,Austin,,2015,8,260,Arizona,Pac-12,Yes,,
-Camrthy15,Worthy,Cam,,2015,8,260,East Carolina,American,Yes,,
-Camedith15,Meredith,Cameron,,2015,8,260,Illinois State,MVFC,No,,
-Chriones15,Jones,Christion,,2015,8,260,Alabama,SEC,Yes,,
-DamiByrd15,Byrd,Damiere,,2015,8,260,South Carolina,SEC,Yes,,
-Dariings15,Jennings,Darius,,2015,8,260,Virginia,ACC,Yes,,
-DaVaiels15,Daniels,DaVaris,,2015,8,260,Notre Dame,Independents,Yes,,
-DeAnrter15,Carter,DeAndre,,2015,8,260,Sacramento State,Big Sky,No,,
-DeAnhite15,White,DeAndrew,,2015,8,260,Alabama,SEC,Yes,,
+Camrthy15,Worthy,Cam,,2015,8,260,East Carolina,American,Yes,6-Apr-92,23.08
+Camedith15,Meredith,Cameron,,2015,8,260,Illinois State,MVFC,No,21-Sep-92,22.62
+Chriones15,Jones,Christion,,2015,8,260,Alabama,SEC,Yes,20-Dec-92,22.37
+DamiByrd15,Byrd,Damiere,,2015,8,260,South Carolina,SEC,Yes,27-Jan-93,22.27
+Dariings15,Jennings,Darius,,2015,8,260,Virginia,ACC,Yes,28-Jun-92,22.85
+DaVaiels15,Daniels,DaVaris,,2015,8,260,Notre Dame,Independents,Yes,18-Dec-92,22.38
+DeAnrter15,Carter,DeAndre,,2015,8,260,Sacramento State,Big Sky,No,10-Apr-93,22.07
+DeAnhite15,White,DeAndrew,,2015,8,260,Alabama,SEC,Yes,16-Oct-91,23.55
 DeonLong15,Long,Deon,,2015,8,260,Maryland,Big Ten,Yes,,
 Deonerry15,Greenberry,Deontay,,2015,8,260,Houston,American,Yes,,
 Devaavis15,Davis,Devante,,2015,8,260,UNLV,Mountain West,Yes,,
 Donakett15,Luckett,Donatella,,2015,8,260,Harding,GAC,No,,
-Dresrson15,Anderson,Dres,,2015,8,260,Utah,Mountain West,Yes,,
-Eligers15,Rogers,Eli,,2015,8,260,Louisville,ACC,Yes,,
-Ezelffin15,Ruffin,Ezell,,2015,8,260,San Diego State,Mountain West,Yes,,
-Jakeerow15,Kumerow,Jake,,2015,8,260,Wisconsin-Whitewater,WIAC,No,,
+Dresrson15,Anderson,Dres,,2015,8,260,Utah,Mountain West,Yes,20-Jul-92,22.79
+Eligers15,Rogers,Eli,,2015,8,260,Louisville,ACC,Yes,23-Dec-92,22.36
+Ezelffin15,Ruffin,Ezell,,2015,8,260,San Diego State,Mountain West,Yes,17-Mar-92,23.13
+Jakeerow15,Kumerow,Jake,,2015,8,260,Wisconsin-Whitewater,WIAC,No,17-Feb-92,23.21
 Jaxopley15,Shipley,Jaxon,,2015,8,260,Texas,Big 12,Yes,,
 Johnrris15,Harris,John,,2015,8,260,Texas,Big 12,Yes,,
-Jordylor15,Taylor,Jordan,,2015,8,260,Rice,C-USA,Yes,,
+Jordylor15,Taylor,Jordan,,2015,8,260,Rice,C-USA,Yes,18-Feb-92,23.21
 Joshrper15,Harper,Josh,,2015,8,260,Fresno State,Mountain West,Yes,,
-Kaseiams15,Williams,Kasen,,2015,8,260,Washington,Pac-12,Yes,,
-Leviwood15,Norwood,Levi,,2015,8,260,Baylor,Big 12,Yes,,
+Kaseiams15,Williams,Kasen,,2015,8,260,Washington,Pac-12,Yes,5-Dec-92,22.41
+Leviwood15,Norwood,Levi,,2015,8,260,Baylor,Big 12,Yes,16-Jun-92,22.88
 Michnett15,Bennett,Michael,,2015,8,260,Georgia,SEC,Yes,,
 NigeKing15,King,Nigel,,2015,8,260,Kansas,Big 12,Yes,,
-RannHall15,Hall,Rannell,,2015,8,260,UCF,American,Yes,,
-Tituavis15,Davis,Titus,,2015,8,260,Central Michigan,MAC,Yes,,
-Tyreiams15,Williams,Tyrell,,2015,8,260,Western Oregon,GNAC,No,,
+RannHall15,Hall,Rannell,,2015,8,260,UCF,American,Yes,30-Jan-93,22.26
+Tituavis15,Davis,Titus,,2015,8,260,Central Michigan,MAC,Yes,3-Jan-93,22.33
+Tyreiams15,Williams,Tyrell,,2015,8,260,Western Oregon,GNAC,No,12-Feb-92,23.23
 Zachazio15,D'Orazio,Zach,,2015,8,260,Akron,MAC,Yes,,
-Coreeman16,Coleman,Corey,,2016,1,15,Baylor,Big 12,Yes,,
-Willller16,Fuller,Will,,2016,1,21,Notre Dame,Independents,Yes,,
-Joshtson16,Doctson,Josh,,2016,1,22,TCU,Big 12,Yes,,
-Laquwell16,Treadwell,Laquon,,2016,1,23,Ole Miss,SEC,Yes,,
-Sterpard16,Shepard,Sterling,,2016,2,40,Oklahoma,Big 12,Yes,,
-Michomas16,Thomas,Michael,,2016,2,47,Ohio State,Big Ten,Yes,,
-TyleBoyd16,Boyd,Tyler,,2016,2,55,Pittsburgh,ACC,Yes,,
-Braxller16,Miller,Braxton,,2016,3,85,Ohio State,Big Ten,Yes,,
-Leonrroo16,Carroo,Leonte,,2016,3,86,Rutgers,Big Ten,Yes,,
-Chrioore16,Moore,Chris,,2016,4,107,Cincinnati,American,Yes,,
-Malchell16,Mitchell,Malcolm,,2016,4,112,Georgia,SEC,Yes,,
-Ricaouis16,Louis,Ricardo,,2016,4,114,Auburn,SEC,Yes,,
-Pharoper16,Cooper,Pharoh,,2016,4,117,South Carolina,SEC,Yes,,
-Demanson16,Robinson,Demarcus,,2016,4,126,Florida,SEC,Yes,,
-Tajaarpe16,Sharpe,Tajae,,2016,5,140,UMass,MAC,Yes,,
-Jordyton16,Payton,Jordan,,2016,5,154,UCLA,Pac-12,Yes,,
-Trevavis16,Davis,Trevor,,2016,5,163,California,Pac-12,Yes,,
-TyreHill16,Hill,Tyreek,,2016,5,165,West Alabama,Gulf South,No,,
-Rashgins16,Higgins,Rashard,,2016,5,172,Colorado State,Mountain West,Yes,,
-Moringer16,Boehringer,Moritz,,2016,6,180,Europe,Europe,No,,
-Jakerant16,Grant,Jakeem,,2016,6,186,Texas Tech,Big 12,Yes,,
-Kolbnbee16,Listenbee,Kolby,,2016,6,192,TCU,Big 12,Yes,,
-CodyCore16,Core,Cody,,2016,6,199,Ole Miss,SEC,Yes,,
-Mikeomas16,Thomas,Mike,,2016,6,206,Southern Miss,C-USA,Yes,,
-Aaroidge16,Burbridge,Aaron,,2016,6,213,Michigan State,Big Ten,Yes,,
-Devicien16,Lucien,Devin,,2016,7,225,Arizona State,Pac-12,Yes,,
-DeMayers16,Ayers,DeMarcus,,2016,7,229,Houston,American,Yes,,
-Danirman16,Braverman,Daniel,,2016,7,230,Western Michigan,MAC,Yes,,
-Deviller16,Fuller,Devin,,2016,7,238,UCLA,Pac-12,Yes,,
-Chareake16,Peake,Charone,,2016,7,241,Clemson,ACC,Yes,,
-Kennwler16,Lawler,Kenny,,2016,7,243,California,Pac-12,Yes,,
-Alexkson16,Erickson,Alex,,2016,8,260,Wisconsin,Big Ten,Yes,,
-Alonsell16,Russell,Alonzo,,2016,8,260,Toledo,MAC,Yes,,
-Andyones16,Jones,Andy,,2016,8,260,Jacksonville,Pioneer,No,,
-Bralison16,Addison,Bralon,,2016,8,260,Oregon,Pac-12,Yes,,
-Byrohall16,Marshall,Byron,,2016,8,260,Oregon,Pac-12,Yes,,
-Caylones16,Jones,Cayleb,,2016,8,260,Arizona,Pac-12,Yes,,
-Chesgers16,Rogers,Chester,,2016,8,260,Grambling State,SWAC,No,,
-Chosrson16,Anderson,Chosen,,2016,8,260,Temple,American,Yes,,
-Chrirown16,Brown,Chris,,2016,8,260,Notre Dame,Independents,Yes,,
-DJster16,Foster,D.J.,,2016,8,260,Arizona State,Pac-12,Yes,,
-Devouste16,Cajuste,Devon,,2016,8,260,Stanford,Pac-12,Yes,,
-Dukeiams16,Williams,Duke,,2016,8,260,Auburn,SEC,Yes,,
-Geroison16,Allison,Geronimo,,2016,8,260,Illinois,Big Ten,Yes,,
-Huntharp16,Sharp,Hunter,,2016,8,260,Utah State,Mountain West,Yes,,
-Jalihall16,Marshall,Jalin,,2016,8,260,Ohio State,Big Ten,Yes,,
+Coreeman16,Coleman,Corey,,2016,1,15,Baylor,Big 12,Yes,6-Jul-94,21.83
+Willller16,Fuller,Will,,2016,1,21,Notre Dame,Independents,Yes,16-Apr-94,22.05
+Joshtson16,Doctson,Josh,,2016,1,22,TCU,Big 12,Yes,3-Dec-92,23.42
+Laquwell16,Treadwell,Laquon,,2016,1,23,Ole Miss,SEC,Yes,14-Jun-95,20.89
+Sterpard16,Shepard,Sterling,,2016,2,40,Oklahoma,Big 12,Yes,10-Feb-93,23.23
+Michomas16,Thomas,Michael,,2016,2,47,Ohio State,Big Ten,Yes,3-Mar-93,23.17
+TyleBoyd16,Boyd,Tyler,,2016,2,55,Pittsburgh,ACC,Yes,15-Nov-94,21.47
+Braxller16,Miller,Braxton,,2016,3,85,Ohio State,Big Ten,Yes,30-Nov-92,23.42
+Leonrroo16,Carroo,Leonte,,2016,3,86,Rutgers,Big Ten,Yes,24-Jan-94,22.27
+Chrioore16,Moore,Chris,,2016,4,107,Cincinnati,American,Yes,16-Jun-93,22.88
+Malchell16,Mitchell,Malcolm,,2016,4,112,Georgia,SEC,Yes,20-Jul-92,23.79
+Ricaouis16,Louis,Ricardo,,2016,4,114,Auburn,SEC,Yes,23-Mar-94,22.12
+Pharoper16,Cooper,Pharoh,,2016,4,117,South Carolina,SEC,Yes,7-Mar-95,21.16
+Demanson16,Robinson,Demarcus,,2016,4,126,Florida,SEC,Yes,21-Sep-94,21.62
+Tajaarpe16,Sharpe,Tajae,,2016,5,140,UMass,MAC,Yes,23-Dec-94,21.36
+Jordyton16,Payton,Jordan,,2016,5,154,UCLA,Pac-12,Yes,1-Sep-93,22.67
+Trevavis16,Davis,Trevor,,2016,5,163,California,Pac-12,Yes,4-Jul-93,22.83
+TyreHill16,Hill,Tyreek,,2016,5,165,West Alabama,Gulf South,No,1-Mar-94,22.18
+Rashgins16,Higgins,Rashard,,2016,5,172,Colorado State,Mountain West,Yes,7-Oct-94,21.57
+Moringer16,Boehringer,Moritz,,2016,6,180,Europe,Europe,No,16-Oct-93,22.55
+Jakerant16,Grant,Jakeem,,2016,6,186,Texas Tech,Big 12,Yes,30-Oct-92,23.51
+Kolbnbee16,Listenbee,Kolby,,2016,6,192,TCU,Big 12,Yes,25-Jan-94,22.27
+CodyCore16,Core,Cody,,2016,6,199,Ole Miss,SEC,Yes,17-Apr-94,22.05
+Mikeomas16,Thomas,Mike,,2016,6,206,Southern Miss,C-USA,Yes,16-Aug-94,21.72
+Aaroidge16,Burbridge,Aaron,,2016,6,213,Michigan State,Big Ten,Yes,23-Dec-93,22.36
+Devicien16,Lucien,Devin,,2016,7,225,Arizona State,Pac-12,Yes,26-Jun-93,22.85
+DeMayers16,Ayers,DeMarcus,,2016,7,229,Houston,American,Yes,7-Jul-94,21.82
+Danirman16,Braverman,Daniel,,2016,7,230,Western Michigan,MAC,Yes,28-Sep-93,22.60
+Deviller16,Fuller,Devin,,2016,7,238,UCLA,Pac-12,Yes,29-Jan-94,22.26
+Chareake16,Peake,Charone,,2016,7,241,Clemson,ACC,Yes,16-Oct-92,23.55
+Kennwler16,Lawler,Kenny,,2016,7,243,California,Pac-12,Yes,25-Jun-94,21.86
+Alexkson16,Erickson,Alex,,2016,8,260,Wisconsin,Big Ten,Yes,6-Nov-92,23.49
+Alonsell16,Russell,Alonzo,,2016,8,260,Toledo,MAC,Yes,29-Sep-92,23.59
+Andyones16,Jones,Andy,,2016,8,260,Jacksonville,Pioneer,No,28-Jun-94,21.85
+Bralison16,Addison,Bralon,,2016,8,260,Oregon,Pac-12,Yes,12-Oct-93,22.56
+Byrohall16,Marshall,Byron,,2016,8,260,Oregon,Pac-12,Yes,13-Feb-94,22.22
+Caylones16,Jones,Cayleb,,2016,8,260,Arizona,Pac-12,Yes,21-Mar-93,23.12
+Chesgers16,Rogers,Chester,,2016,8,260,Grambling State,SWAC,No,12-Jan-94,22.31
+Chosrson16,Anderson,Chosen,,2016,8,260,Temple,American,Yes,9-May-93,22.99
+Chrirown16,Brown,Chris,,2016,8,260,Notre Dame,Independents,Yes,8-Dec-93,22.40
+DJster16,Foster,D.J.,,2016,8,260,Arizona State,Pac-12,Yes,22-Nov-93,22.45
+Devouste16,Cajuste,Devon,,2016,8,260,Stanford,Pac-12,Yes,31-Jan-93,23.25
+Dukeiams16,Williams,Duke,,2016,8,260,Auburn,SEC,Yes,13-May-92,23.98
+Geroison16,Allison,Geronimo,,2016,8,260,Illinois,Big Ten,Yes,18-Jan-94,22.29
+Huntharp16,Sharp,Hunter,,2016,8,260,Utah State,Mountain West,Yes,25-Apr-94,22.02
+Jalihall16,Marshall,Jalin,,2016,8,260,Ohio State,Big Ten,Yes,21-Jul-95,20.79
 Jareield16,Dangerfield,Jared,,2016,8,260,Western Kentucky,C-USA,Yes,,
-JayLee16,Lee,Jay,,2016,8,260,Baylor,Big 12,Yes,,
-Jaydkens16,Mickens,Jaydon,,2016,8,260,Washington,Pac-12,Yes,,
-Johnlton16,Holton,Johnny,,2016,8,260,Cincinnati,American,Yes,,
-KJMaye16,Maye,K.J.,,2016,8,260,Minnesota,Big Ten,Yes,,
-Kalimond16,Raymond,Kalif,,2016,8,260,Holy Cross,Patriot,No,,
-Keyarett16,Garrett,Keyarris,,2016,8,260,Tulsa,American,Yes,,
-Marqorth16,North,Marquez,,2016,8,260,Tennessee,SEC,Yes,,
-MarvHall16,Hall,Marvin,,2016,8,260,Washington,Pac-12,Yes,,
-Maurrris16,Harris,Maurice,,2016,8,260,California,Pac-12,Yes,,
-MekacKay16,McKay,Mekale,,2016,8,260,Cincinnati,American,Yes,,
-Nelsruce16,Spruce,Nelson,,2016,8,260,Colorado,Pac-12,Yes,,
-Paulerts16,McRoberts,Paul,,2016,8,260,Southeast Missouri State,OVC,No,,
-Rashcott16,Scott,Rashawn,,2016,8,260,Miami,ACC,Yes,,
-Rogeewis16,Lewis,Roger,,2016,8,260,Bowling Green,MAC,Yes,,
-Tommewis16,Lewis,Tommylee,,2016,8,260,Northern Illinois,MAC,Yes,,
-Coreavis17,Davis,Corey,,2017,1,5,Western Michigan,MAC,Yes,,
-Mikeiams17,Williams,Mike,,2017,1,7,Clemson,ACC,Yes,,
-JohnRoss17,Ross,John,,2017,1,9,Washington,Pac-12,Yes,,
-Zayones17,Jones,Zay,,2017,2,37,East Carolina,American,Yes,,
-Curtmuel17,Samuel,Curtis,,2017,2,40,Ohio State,Big Ten,Yes,,
-JuJuster17,Smith-Schuster,JuJu,,2017,2,62,USC,Pac-12,Yes,,
-CoopKupp17,Kupp,Cooper,,2017,3,69,Eastern Washington,Big Sky,No,,
-Taywylor17,Taylor,Taywan,,2017,3,72,Western Kentucky,C-USA,Yes,,
-ArDawart17,Stewart,ArDarius,,2017,3,79,Alabama,SEC,Yes,,
-Carlrson17,Henderson,Carlos,,2017,3,82,Louisiana Tech,C-USA,Yes,,
-Chridwin17,Godwin,Chris,,2017,3,84,Penn State,Big Ten,Yes,,
-Kennaday17,Golladay,Kenny,,2017,3,96,Northern Illinois,MAC,Yes,,
-Chadiams17,Williams,Chad,,2017,3,98,Grambling State,SWAC,No,,
-Amarrboh17,Darboh,Amara,,2017,3,106,Michigan,Big Ten,Yes,,
-Dederook17,Westbrook,Dede,,2017,4,110,Oklahoma,Big 12,Yes,,
-Josholds17,Reynolds,Josh,,2017,4,117,Texas A&M,SEC,Yes,,
-Macklins17,Hollins,Mack,,2017,4,118,North Carolina,ACC,Yes,,
-Joshlone17,Malone,Josh,,2017,4,128,Tennessee,SEC,Yes,,
-Ryantzer17,Switzer,Ryan,,2017,4,133,North Carolina,ACC,Yes,,
-Jehusson17,Chesson,Jehu,,2017,4,139,Michigan,Big Ten,Yes,,
-Chadnsen17,Hansen,Chad,,2017,4,141,California,Pac-12,Yes,,
-Shelbson17,Gibson,Shelton,,2017,5,166,West Virginia,Big 12,Yes,,
-Rodndams17,Adams,Rodney,,2017,5,170,South Florida,American,Yes,,
-Isainzie17,McKenzie,Isaiah,,2017,5,172,Georgia,SEC,Yes,,
-DeAnncey17,Yancey,DeAngelo,,2017,5,175,Purdue,Big Ten,Yes,,
-Trenylor17,Taylor,Trent,,2017,5,177,Louisiana Tech,C-USA,Yes,,
-Robeavis17,Davis,Robert,,2017,6,209,Georgia State,Sun Belt,Yes,,
-Stacoley17,Coley,Stacy,,2017,7,219,Miami,ACC,Yes,,
-Davioore17,Moore,David,,2017,7,226,East Central,GAC,No,,
-IsaiFord17,Ford,Isaiah,,2017,7,237,Virginia Tech,ACC,Yes,,
-Noahrown17,Brown,Noah,,2017,7,239,Ohio State,Big Ten,Yes,,
-Malaupre17,Dupre,Malachi,,2017,7,247,LSU,SEC,Yes,,
-AmbaTawo17,Etta-Tawo,Amba,,2017,8,260,Syracuse,ACC,Yes,,
+JayLee16,Lee,Jay,,2016,8,260,Baylor,Big 12,Yes,29-Jun-93,22.85
+Jaydkens16,Mickens,Jaydon,,2016,8,260,Washington,Pac-12,Yes,21-Apr-94,22.04
+Johnlton16,Holton,Johnny,,2016,8,260,Cincinnati,American,Yes,22-Aug-90,25.70
+KJMaye16,Maye,K.J.,,2016,8,260,Minnesota,Big Ten,Yes,25-Feb-94,22.19
+Kalimond16,Raymond,Kalif,,2016,8,260,Holy Cross,Patriot,No,8-Aug-94,21.74
+Keyarett16,Garrett,Keyarris,,2016,8,260,Tulsa,American,Yes,26-Sep-92,23.60
+Marqorth16,North,Marquez,,2016,8,260,Tennessee,SEC,Yes,21-Jan-95,21.28
+MarvHall16,Hall,Marvin,,2016,8,260,Washington,Pac-12,Yes,10-Apr-93,23.07
+Maurrris16,Harris,Maurice,,2016,8,260,California,Pac-12,Yes,11-Nov-92,23.48
+MekacKay16,McKay,Mekale,,2016,8,260,Cincinnati,American,Yes,4-Aug-93,22.75
+Nelsruce16,Spruce,Nelson,,2016,8,260,Colorado,Pac-12,Yes,5-Dec-92,23.41
+Paulerts16,McRoberts,Paul,,2016,8,260,Southeast Missouri State,OVC,No,15-Nov-92,23.47
+Rashcott16,Scott,Rashawn,,2016,8,260,Miami,ACC,Yes,29-Jan-92,24.26
+Rogeewis16,Lewis,Roger,,2016,8,260,Bowling Green,MAC,Yes,27-Nov-93,22.43
+Tommewis16,Lewis,Tommylee,,2016,8,260,Northern Illinois,MAC,Yes,24-Oct-92,23.53
+Coreavis17,Davis,Corey,,2017,1,5,Western Michigan,MAC,Yes,11-Jan-95,22.31
+Mikeiams17,Williams,Mike,,2017,1,7,Clemson,ACC,Yes,4-Oct-94,22.58
+JohnRoss17,Ross,John,,2017,1,9,Washington,Pac-12,Yes,27-Nov-95,21.43
+Zayones17,Jones,Zay,,2017,2,37,East Carolina,American,Yes,30-Mar-95,22.09
+Curtmuel17,Samuel,Curtis,,2017,2,40,Ohio State,Big Ten,Yes,11-Aug-96,20.72
+JuJuster17,Smith-Schuster,JuJu,,2017,2,62,USC,Pac-12,Yes,22-Nov-96,20.44
+CoopKupp17,Kupp,Cooper,,2017,3,69,Eastern Washington,Big Sky,No,15-Jun-93,23.88
+Taywylor17,Taylor,Taywan,,2017,3,72,Western Kentucky,C-USA,Yes,2-Mar-95,22.17
+ArDawart17,Stewart,ArDarius,,2017,3,79,Alabama,SEC,Yes,8-Dec-93,23.40
+Carlrson17,Henderson,Carlos,,2017,3,82,Louisiana Tech,C-USA,Yes,19-Dec-94,22.37
+Chridwin17,Godwin,Chris,,2017,3,84,Penn State,Big Ten,Yes,27-Feb-96,21.18
+Kennaday17,Golladay,Kenny,,2017,3,96,Northern Illinois,MAC,Yes,3-Nov-93,23.50
+Chadiams17,Williams,Chad,,2017,3,98,Grambling State,SWAC,No,19-Oct-94,22.54
+Amarrboh17,Darboh,Amara,,2017,3,106,Michigan,Big Ten,Yes,1-Feb-94,23.25
+Dederook17,Westbrook,Dede,,2017,4,110,Oklahoma,Big 12,Yes,21-Nov-93,23.45
+Josholds17,Reynolds,Josh,,2017,4,117,Texas A&M,SEC,Yes,16-Feb-95,22.21
+Macklins17,Hollins,Mack,,2017,4,118,North Carolina,ACC,Yes,16-Sep-93,23.63
+Joshlone17,Malone,Josh,,2017,4,128,Tennessee,SEC,Yes,21-Mar-96,21.12
+Ryantzer17,Switzer,Ryan,,2017,4,133,North Carolina,ACC,Yes,4-Nov-94,22.49
+Jehusson17,Chesson,Jehu,,2017,4,139,Michigan,Big Ten,Yes,29-Dec-93,23.34
+Chadnsen17,Hansen,Chad,,2017,4,141,California,Pac-12,Yes,18-Jan-95,22.29
+Shelbson17,Gibson,Shelton,,2017,5,166,West Virginia,Big 12,Yes,20-Mar-94,23.12
+Rodndams17,Adams,Rodney,,2017,5,170,South Florida,American,Yes,15-Sep-94,22.63
+Isainzie17,McKenzie,Isaiah,,2017,5,172,Georgia,SEC,Yes,9-Apr-95,22.07
+DeAnncey17,Yancey,DeAngelo,,2017,5,175,Purdue,Big Ten,Yes,18-Nov-94,22.45
+Trenylor17,Taylor,Trent,,2017,5,177,Louisiana Tech,C-USA,Yes,30-Apr-94,23.01
+Robeavis17,Davis,Robert,,2017,6,209,Georgia State,Sun Belt,Yes,2-Apr-95,22.08
+Stacoley17,Coley,Stacy,,2017,7,219,Miami,ACC,Yes,13-May-94,22.97
+Davioore17,Moore,David,,2017,7,226,East Central,GAC,No,15-Jan-95,22.30
+IsaiFord17,Ford,Isaiah,,2017,7,237,Virginia Tech,ACC,Yes,9-Feb-96,21.23
+Noahrown17,Brown,Noah,,2017,7,239,Ohio State,Big Ten,Yes,6-Jan-96,21.32
+Malaupre17,Dupre,Malachi,,2017,7,247,LSU,SEC,Yes,12-Oct-95,21.56
+AmbaTawo17,Etta-Tawo,Amba,,2017,8,260,Syracuse,ACC,Yes,10-Nov-93,23.48
 Artacott17,Scott,Artavis,,2017,8,260,Clemson,ACC,Yes,,
 AustCarr17,Carr,Austin,,2017,8,260,Northwestern,Big Ten,Yes,,
 Billrown17,Brown,Billy,,2017,8,260,Shepherd,MEC,No,,
@@ -239,8 +239,8 @@ GregWard17,Ward,Greg,,2017,8,260,Houston,American,Yes,,
 Ishmmora17,Zamora,Ishmael,,2017,8,260,Baylor,Big 12,Yes,,
 Jamaples17,Staples,Jamari,,2017,8,260,Louisville,ACC,Yes,,
 Jameuick17,Quick,James,,2017,8,260,Louisville,ACC,Yes,,
-JeroLane17,Lane,Jerome,,2017,8,260,Akron,MAC,Yes,,
-JoJotson17,Natson,JoJo,,2017,8,260,Akron,MAC,Yes,,
+JeroLane17,Lane,Jerome,,2017,8,260,Akron,MAC,Yes,9-Mar-96,
+JoJotson17,Natson,JoJo,,2017,8,260,Akron,MAC,Yes,1-Feb-94,
 Jordkamp17,Westerkamp,Jordan,,2017,8,260,Nebraska,Big Ten,Yes,,
 Karelton17,Hamilton,Karel,,2017,8,260,Samford,SoCon,No,,
 KeelCole17,Cole,Keelan,,2017,8,260,Kentucky Wesleyan,G-MAC,No,,
@@ -556,7 +556,7 @@ IsaicKoy21,McKoy,Isaiah,,2021,8,260,Kent State,MAC,Yes,,
 Javonley21,McKinley,Javon,,2021,8,260,Notre Dame,Independents,Yes,,
 JDlman21,Spielman,JD,,2021,8,260,TCU,Big 12,Yes,,
 Jereydel21,Haydel,Jeremiah,,2021,8,260,Texas State,Sun Belt,Yes,,
-Jereoman23,Holloman,Jeremiah,,2023,8,260,Tennessee State,OVC,,,
+Jereoman23,Holloman,Jeremiah,,2023,8,260,Tennessee State,OVC,No,,
 Jhamsbon21,Ausbon,Jhamon,,2021,8,260,Texas A&M,SEC,Yes,,
 Jonadams21,Adams,Jonathan,Jr.,2021,8,260,Arkansas State,Sun Belt,Yes,,
 Joshebhe21,Imatorbhebhe,Josh,,2021,8,260,Illinois,Big Ten,Yes,,
@@ -645,3 +645,37 @@ Trerner22,Turner,Tre,,2022,8,260,Virginia Tech,ACC,Yes,,
 Tyogle22,Fryfogle,Ty,,2022,8,260,Indiana,Big Ten,Yes,,
 Reggrson22,Roberson,Reggie,Jr.,2022,8,260,SMU,The American,Yes,,
 Joshnson22,Johnson,Josh,,2022,8,260,Tulsa,The American,Yes,,
+Jaxosmit23,Smith-Njigba,Jaxon,,2023,1,20,Ohio State,Big Ten,Yes,,
+Quenjohn23,Johnson,Quentin,,2023,1,21,TCU,Big 12,Yes,,
+Zayflow23,Flowers,Zay,,2023,1,22,Boston College,ACC,Yes,,
+Jordaddi23,Addison,Jordan,,2023,1,23,USC,Pac-12,Yes,,
+Jonaming23,Mingo,Jonathan,,2023,2,39,Ole Miss,SEC,Yes,,
+Jaydreed23,Reed,Jayden,,2023,2,50,Michigan State,Big Ten,Yes,,
+Rashrice23,Rice,Rashee,,2023,2,55,SMU,The American,Yes,,
+Marvmims23,Mims,Marvin,,2023,2,63,Oklahoma,Big 12,Yes,,
+Tankdell23,Dell,Tank,,2023,3,69,Houston,The American,Yes,,
+Jalihyat23,Hyatt,Jalin,,2023,3,73,Tennessee,SEC,Yes,,
+Cedrtill23,Tillman,Cedric,,2023,3,74,Tennessee,SEC,Yes,,
+Joshdown23,Downs,Josh,,2023,3,79,North Carolina,ACC,Yes,,
+Michwils23,Wilson,Michael,,2023,3,94,Stanford,Pac-12,Yes,,
+Tretuck23,Tucker,Tre,,2023,3,100,Cincinnati,The American,Yes,,
+Deridavi23,Davis,Derius,,2023,4,125,TCU,Big 12,Yes,,
+Charjone23,Jones,Charlie,,2023,4,131,Purdue,Big Ten,Yes,,
+Tylescot23,Scott,Tyler,,2023,4,133,Cincinnati,The American,Yes,,
+Justshor23,Shorter,Justin,,2023,5,150,Florida,SEC,Yes,,
+Dontwick23,Wicks,Dontayvion,,2023,5,159,Virginia,ACC,Yes,,
+Pukanacu23,Nacua,Puka,,2023,5,177,BYU,Independents,Yes,,
+Parkwash23,Washington,Parker,,2023,6,185,Penn State,Big Ten,Yes,,
+Kaysbout23,Boutte,Kayshon,,2023,6,187,LSU,SEC,Yes,,
+Treypalm23,Palmer,Treylon,,2023,6,191,Nebraska,Big Ten,Yes,,
+A.T.perr23,Perry,A.T.,,2023,6,195,Wake Forest,ACC,Yes,,
+Elijhigg23,Higgins,Elijah,,2023,6,197,Stanford,Pac-12,Yes,,
+Xavihutc23,Hutchinson,Xavier,,2023,6,205,Iowa State,Big 12,Yes,,
+Andriosi23,Iosivas,Andrei,,2023,6,206,Princeton,Ivy,No,,
+Demadoug23,Douglas,Demario,,2023,6,210,Liberty,Independents,Yes,,
+Antogree23,Green,Antoine,,2023,7,219,North Carolina,ACC,Yes,,
+Coltdowe23,Dowell,Colton,,2023,7,228,UT Martin,OVC,No,,
+Jalebroo23,Brooks,Jalen,,2023,7,244,South Carolina,SEC,Yes,,
+Ronnbell23,Bell,Ronnie,,2023,7,253,Michigan,Big Ten,Yes,,
+Grandubo23,DuBose,Grant,,2023,7,256,Charlotte,C-USA,Yes,,
+Xavigips23,Gipson,Xavier,,2023,8,260,Stephen F. Austin,WAC,No,,
