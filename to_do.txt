@@ -14,9 +14,15 @@ Upload current CSV's to db
 		- 15 Oct 23
 	- Uploaded Player_Profile and saved CSV
 		- 16 Oct 23
+	- Uploaded Finishes and saved CSV
+		- 22 Oct 23
 
 Add Reggrson22 Joshnson22
-
+	- Added to Bio
+		- 22 Oct 23
+	- Added to Finishes
+		- 22 Oct 23
+		
 Add data sources
 	- 17 Oct
 
@@ -26,12 +32,20 @@ Add data for vertical, bench, broad jump, 3 cone, and shuttle
 
 Add any missing players from Bio from 2014-2022
 
+Add UDFA's who signed from 2014-2023
+
 Add 2023 class
 	- Rounds 1-7 added
+	- UDFA on NFL.com added to Bio and Metrics
 
 Add 2013 class and back
 
 Add raw stats table
+
+Check A.T. Perry's Player_ID
+
+*** Ensure all Player_ID's are being calculated the same way  ***
+
 
 
 Ideas:
