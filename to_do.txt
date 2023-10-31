@@ -1,12 +1,15 @@
 Place to keep everything to be done, notes, and ideas
 
 To Do:
+*Complete*
 Create database
 	- Done 14 Oct 23
 
+*Complete*
 Create repo
 	- Done 14 Oct 23
 	
+*Complete*
 Upload current CSV's to db
 	- Bio is uploaded
 		- 14 Oct 23
@@ -17,36 +20,60 @@ Upload current CSV's to db
 	- Uploaded Finishes and saved CSV
 		- 22 Oct 23
 
+*Complete*
 Add Reggrson22 Joshnson22
 	- Added to Bio
 		- 22 Oct 23
 	- Added to Finishes
 		- 22 Oct 23
-		
+	- Added to Player Profile
+		- 28 Oct 23
+	- Added to Metrics
+		- 28 Oct 23
+
+*Complete*
 Add data sources
 	- 17 Oct
 
+*Complete*
+Add 2023 class
+	- Rounds 1-7 added
+	- UDFA on NFL.com added to Bio and Metrics
+	
+*Complete*
+Check A.T. Perry's Player_ID
+	- Fixed in Player_ID update
+
+*Complete*
+*** Ensure all Player_ID's are being calculated the same way  ***
+	- Fixed 2023 class
+		- 28 Oct 23
+
+*Complete*
+Add 2023 class to Bio, Metrics, and Player Profile
+	- 28 Oct 23
+
+Remove Trenton Cannon Trennnon17 and move to RB for future
+
 Finish birthdays/draft age
+	- 2014 class from pro-football-reference.com
+	- 2015 class from pro-football-reference.com
+	- 2016 class from pro-football-reference.com
+	- 2017 class from pro-football-reference.com
+		- 31 Oct 23
 
 Add data for vertical, bench, broad jump, 3 cone, and shuttle
 
 Add any missing players from Bio from 2014-2022
 
 Add UDFA's who signed from 2014-2023
-
-Add 2023 class
-	- Rounds 1-7 added
-	- UDFA on NFL.com added to Bio and Metrics
+	- 2022 class added from NFL.com UDFA tracker
 
 Add 2013 class and back
 
 Add raw stats table
 
-Check A.T. Perry's Player_ID
-
-*** Ensure all Player_ID's are being calculated the same way  ***
-
-
+Add Team drafted or signed to Bio
 
 Ideas:
 Tableau for player comparison 
